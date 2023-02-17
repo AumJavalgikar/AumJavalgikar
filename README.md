@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Aum Javalgikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AumJavalgikar&show_icons=true&theme=cobalt&custom_title=Aum%20Javalgikar's%20GitHub%20stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AumJavalgikar)
