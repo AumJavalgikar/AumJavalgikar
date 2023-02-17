@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aum Javalgikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AumJavalgikar&show_icons=true&custom_title=Aum%20Javalgikar's%20GitHub%20stats&bg_color=45,4d8fac,76aac2)
+![Aum Javalgikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AumJavalgikar&show_icons=true&custom_title=Aum%20Javalgikar's%20GitHub%20stats&bg_color=30,4d8fac,da1d81)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AumJavalgikar)
