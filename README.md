@@ -1,4 +1,4 @@
-### I am a third year Computer Engineering student 👋
+### I am a fourth year Computer Engineering student 👋
 
 <!--
 **AumJavalgikar/AumJavalgikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
