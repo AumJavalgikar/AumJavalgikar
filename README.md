@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Aum Javalgikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AumJavalgikar&show_icons=true&custom_title=Aum%20Javalgikar's%20GitHub%20stats&bg_color=30,02d6c9,9efd38,79e802,1efd87,02d6c9&title_color=0f02e3&border_color=58fcfe&text_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AumJavalgikar&bg_color=30,02d6c9,9efd38,79e802,1efd87,02d6c9&title_color=0f02e3&border_color=58fcfe&text_color=000000)
